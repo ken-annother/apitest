@@ -1,10 +1,11 @@
 {
   "data": {
-    "desc": "安卓测试版本1",
+    "desc": "1.添加我的－收藏功能\n2.完成登录密码的修改\n3.商品详情分享链接修改\n4.完成微信支付的一些BUG\n5.修复商品分享后建立关系的bug",
     "publishDate": "2016-07-27",
-    "versionCode": "1.0",
+    "versionCode": "1.1.1",
     "versionLink": "http://pkg3.fir.im/4bbabe1f6d68f31ce4bcbdf40d2f0a7c355880ae.apk?filename=ugou_1.2.1.apk_V1.0.0.apk",
-    "versionid": 2
+    "versionid": 5,
+ "minVersionId" : "5",
   },
   "errcode": "200"
 }
